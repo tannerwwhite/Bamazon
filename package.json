@@ -1,0 +1,34 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "terminal store front",
+  "main": "bamazonpage.js",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannerwwhite/Bamazon.git"
+  },
+  "keywords": [
+    "A",
+    "command",
+    "line",
+    "marketplace",
+    "app",
+    "using",
+    "SQL"
+  ],
+  "author": "Tanner W White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannerwwhite/Bamazon/issues"
+  },
+  "homepage": "https://github.com/tannerwwhite/Bamazon#readme"
+}
