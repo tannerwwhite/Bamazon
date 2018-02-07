@@ -8,9 +8,9 @@ var filesystem = require('fs');
 // Step 5 - create database in MySQL workbench and then create the connection here
 var connection = mysql.createConnection({
     host: "localhost",
-    port: 3306,
+    port: 8889,
     user: "root",
-    password: "",
+    password: "root",
     database: "Bamazon"
 });
 
